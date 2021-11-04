@@ -4,7 +4,6 @@
 
 
 <!-- Main Page Content -->
-<h1>Welcome</h1>
 <!-- End Main Page Content -->
 
 

@@ -28,7 +28,7 @@
         <div class="row">
             <h1 class="text-light text-center">Projects</h1>
             <div class="row mt-5 row-cols-1 row-cols-md-2 g-4">
-                
+
                 <!-- Bastepin Card -->
                 <div class="col mb-2">
                     <div class="card h-100">
@@ -41,7 +41,7 @@
                                     <div class="col-3">
                                     </div>
                                     <div class="col-3">
-                                        <h5><a class="link-dark text-right" href="https://bastepin.vixendev.com"><i class="fas fa-globe"></i></a>   <a class="link-dark" href="https://github.com/skyethevixen/bastepin"><i class="fab fa-github"></i></a></h5> 
+                                        <h5 class="d-flex flex-row-reverse"><a class="link-dark text-right ps-1" href="https://bastepin.vixendev.com"><i class="fas fa-globe"></i></a><a class="link-dark ps-1" href="https://github.com/skyethevixen/bastepin"><i class="fab fa-github"></i></a></h5> 
                                     
                                     </div>
                                 </div>
@@ -55,31 +55,31 @@
                                     <p></p>
                                 </div>
                                 <div class="col-5">
-                                    <h4 class="text-dark"><i class="fab fa-html5"></i> <i class="fab fa-php"></i> <i class="float-right fab fa-js-square"></i></h4>
+                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-html5 ps-1"></i><i class="fab fa-php ps-1"></i><i class="fab fa-js-square ps-1"></i></h4>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 
-                <!-- Project Card -->
+                <!-- Autodelete bot Card -->
                 <div class="col mb-2">
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="card-title">
                                 <div class="row">
                                     <div class="col-6">
-                                        <h5>Project Title</h5>
+                                        <h5>Auto-delete Bot</h5>
                                     </div>
                                     <div class="col-3">
                                     </div>
-                                    <div class="col-3">
-                                        <h5><a class="link-dark text-right" href="[PROJECT WEB LINK]"><i class="fas fa-globe"></i></a>   <a class="link-dark" href="https://github.com/skyethevixen/[REPO NAME]"><i class="fab fa-github"></i></a></h5> 
+                                    <div class="col-3 text-right">
+                                        <h5 class="d-flex flex-row-reverse"><a class="link-dark" href="https://github.com/skyethevixen/https://github.com/SkyeTheVixen/Auto-Delete-Bot"><i class="fab fa-github"></i></a></h5> 
                                     
                                     </div>
                                 </div>
                             </div>
-                            <p class="card-text">Project Description</p>
+                            <p class="card-text">I decided to make a utility discord bot that automatically deletes any messages sent. It allowed me to experiment with the discord API a little bit whilst making an arguably useless project</p>
                             <div class="row">
                                 <div class="col-4">
                                     <p></p>
@@ -88,7 +88,7 @@
                                     <p></p>
                                 </div>
                                 <div class="col-5">
-                                    <h4 class="text-dark">Languages</h4>
+                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-node-js ps-1"></i><i class="fab fa-discord"></i></h4>
                                 </div>
                             </div>
                         </div>
@@ -96,23 +96,23 @@
                 </div>
 
                 <!-- Project Card -->
-                <div class="col mb-2">
+                <!-- <div class="col mb-2">
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="card-title">
                                 <div class="row">
                                     <div class="col-6">
-                                        <h5>Project Title</h5>
+                                        <h5>Auto-delete Bot</h5>
                                     </div>
                                     <div class="col-3">
                                     </div>
-                                    <div class="col-3">
-                                        <h5><a class="link-dark text-right" href="[PROJECT WEB LINK]"><i class="fas fa-globe"></i></a>   <a class="link-dark" href="https://github.com/skyethevixen/[REPO NAME]"><i class="fab fa-github"></i></a></h5> 
+                                    <div class="col-3 text-right">
+                                        <h5 class="d-flex flex-row-reverse"><a class="link-dark" href="https://github.com/skyethevixen/https://github.com/SkyeTheVixen/Auto-Delete-Bot"><i class="fab fa-github"></i></a></h5> 
                                     
                                     </div>
                                 </div>
                             </div>
-                            <p class="card-text">Project Description</p>
+                            <p class="card-text">I decided to make a utility discord bot that automatically deletes any messages sent. It allowed me to experiment with the discord API a little bit whilst making an arguably useless project</p>
                             <div class="row">
                                 <div class="col-4">
                                     <p></p>
@@ -121,15 +121,15 @@
                                     <p></p>
                                 </div>
                                 <div class="col-5">
-                                    <h4 class="text-dark">Languages</h4>
+                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-node-js ps-1"></i><i class="fab fa-discord"></i></h4>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Project Card -->
-                <div class="col mb-2">
+                <!-- <div class="col mb-2">
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="card-title">
@@ -139,13 +139,13 @@
                                     </div>
                                     <div class="col-3">
                                     </div>
-                                    <div class="col-3">
-                                        <h5><a class="link-dark text-right" href="[PROJECT WEB LINK]"><i class="fas fa-globe"></i></a>   <a class="link-dark" href="https://github.com/skyethevixen/[REPO NAME]"><i class="fab fa-github"></i></a></h5> 
+                                    <div class="col-3 text-right">
+                                        <h5 class="d-flex flex-row-reverse"><a class="link-dark" href="https://github.com/skyethevixen/https://github.com/SkyeTheVixen/Auto-Delete-Bot"><i class="fab fa-github"></i></a></h5> 
                                     
                                     </div>
                                 </div>
                             </div>
-                            <p class="card-text">Project Description</p>
+                            <p class="card-text">I decided to make a utility discord bot that automatically deletes any messages sent. It allowed me to experiment with the discord API a little bit whilst making an arguably useless project</p>
                             <div class="row">
                                 <div class="col-4">
                                     <p></p>
@@ -154,12 +154,12 @@
                                     <p></p>
                                 </div>
                                 <div class="col-5">
-                                    <h4 class="text-dark">Languages</h4>
+                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-node-js ps-1"></i><i class="fab fa-discord"></i></h4>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

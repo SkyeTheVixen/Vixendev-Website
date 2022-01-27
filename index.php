@@ -9,14 +9,14 @@
 
 <div class="container">
 
-
+    <!-- Everything above the fold -->
     <section id="index" class="min-vh-100 pad-correction">
         <div class="row h-100">
             <h1 class="text-light text-center">Skylar (Vixendev)</h1>
         </div>
     </section>
 
-
+    <!-- About me -->
     <section id="about" class="min-vh-100 pad-correction">
         <div class="row">
             <h1 class="text-light text-center">About Me</h1>
@@ -34,7 +34,7 @@
         </div>
     </section>
 
-
+    <!-- Place to show off my projects -->
     <section id="projects" class="min-vh-100 pad-correction">
         <div class="row">
             <h1 class="text-light text-center">Projects</h1>
@@ -142,7 +142,7 @@
         </div>
     </section>
 
-
+    <!-- Contact form -->
     <section id="contact" class="min-vh-100 pad-correction">
         <div class="row">
             <h1 class="text-light text-center">Contact</h1>

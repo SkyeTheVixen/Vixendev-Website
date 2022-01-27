@@ -82,7 +82,7 @@
                             <p class="card-text">I decided to make a utility discord bot that automatically deletes any messages sent. It allowed me to experiment with the discord API a little bit whilst making an arguably useless project</p>
                             <div class="row">
                                 <div class="col-12">
-                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-discord" title="Discord API"></i><i class="fab fa-node-js ps-1" title="NodeJS"></i></h4>
+                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-discord ps-1" title="Discord API"></i><i class="fab fa-node-js ps-1" title="NodeJS"></i></h4>
                                 </div>
                             </div>
                         </div>

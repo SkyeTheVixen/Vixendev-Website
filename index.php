@@ -27,7 +27,7 @@
     <section id="projects" class="min-vh-100 pad-correction">
         <div class="row">
             <h1 class="text-light text-center">Projects</h1>
-            <div class="row mt-5 row-cols-1 row-cols-md-2 g-4">
+            <div class="row mt-5 row-cols-1 row-cols-md-3 g-4">
 
                 <!-- Bastepin Card -->
                 <div class="col mb-2">

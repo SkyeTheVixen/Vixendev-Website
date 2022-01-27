@@ -50,14 +50,14 @@
                                         <h5>Bastepin</h5>
                                     </div>
                                     <div class="col-3">
-                                        <h5 class="d-flex flex-row-reverse"><a class="link-dark text-right ps-1" href="https://bastepin.vixendev.com"><i class="fas fa-globe"></i></a><a class="link-dark ps-1" href="https://github.com/skyethevixen/bastepin"><i class="fab fa-github"></i></a></h5> 
+                                        <h5 class="d-flex flex-row-reverse"><a class="link-dark text-right ps-1" title="Live Project" href="https://bastepin.vixendev.com"><i class="fas fa-globe"></i></a><a class="link-dark ps-1" href="https://github.com/skyethevixen/bastepin" title="Github Repo"><i class="fab fa-github"></i></a></h5> 
                                     </div>
                                 </div>
                             </div>
                             <p class="card-text">Bastepin was a small project I was set as part of my degree. The goal was to make a text saving web application similar to that of Pastebin, which I put my own personal spin and flare onto.</p>
                             <div class="row">
                                 <div class="col-12">
-                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-html5 ps-1"></i><i class="fab fa-php ps-1"></i><i class="fab fa-js-square ps-1"></i></h4>
+                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-html5 ps-1" title="HTML"></i><i class="fab fa-php ps-1" title="PHP"></i><i class="fab fa-js-square ps-1" title="JavaScript"></i><i class="fas fa-database ps-1" title="MySQL"></i></h4>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                         <h5>Auto-delete Bot</h5>
                                     </div>
                                     <div class="col-3 text-right">
-                                        <h5 class="d-flex flex-row-reverse"><a class="link-dark" href="https://github.com/skyethevixen/https://github.com/SkyeTheVixen/Auto-Delete-Bot"><i class="fab fa-github"></i></a></h5> 
+                                        <h5 class="d-flex flex-row-reverse"><a class="link-dark" title="Github Repo" href="https://github.com/skyethevixen/https://github.com/SkyeTheVixen/Auto-Delete-Bot"><i class="fab fa-github"></i></a></h5> 
                                     
                                     </div>
                                 </div>
@@ -82,7 +82,7 @@
                             <p class="card-text">I decided to make a utility discord bot that automatically deletes any messages sent. It allowed me to experiment with the discord API a little bit whilst making an arguably useless project</p>
                             <div class="row">
                                 <div class="col-12">
-                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-node-js ps-1"></i><i class="fab fa-discord"></i></h4>
+                                    <h4 class="text-dark d-flex flex-row-reverse"><i class="fab fa-node-js ps-1" title="NodeJS"></i><i class="fab fa-discord" title="discord API"></i></h4>
                                 </div>
                             </div>
                         </div>

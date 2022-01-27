@@ -53,7 +53,7 @@
                     </div>
                 </div>
                 
-                <!-- Autodelete bot Card -->
+                <!-- Autodelete discord bot Card -->
                 <div class="col mb-2">
                     <div class="card h-100">
                         <div class="card-body">

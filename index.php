@@ -21,6 +21,17 @@
         <div class="row">
             <h1 class="text-light text-center">About Me</h1>
         </div>
+        <div class="row h-100">
+            <div class="align-middle col-md-6 h-100">
+                <p class="text-light">
+                    Hello! My name is Skylar and I am a web and software developer. I have a passion for creating
+                    small projects with literally no purpose. I am currently a student at the University of
+                    the West of England studying Applied Computing as a batchelors degree.
+                </p>
+            </div>
+            <div class="col-md-6 align-middle text-center h-100">
+                <img src="res/img/skylar.png" class="selfieimage" alt="A photo of moi">
+        </div>
     </section>
 
 

@@ -1,2 +1,0 @@
-DELETE FROM `DatabaseName`.`TableName`
-WHERE `Attribute` = 'Value';

@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="topnav">
     <div class="container-fluid">
-        <a class="navbar-brand" href="index">
+        <a class="navbar-brand" href="#index">
             <img src="res/img/vdLogoFull.png" alt="VixenDev Logo" width="30" height="24"
                 class="d-inline-block align-text-top">
             Vixendev

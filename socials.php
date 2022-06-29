@@ -12,28 +12,28 @@
 </head>
 
 <body class="bg-dark">
-    <div clas="row vh-100">
-        <div class="col-12 vh-100 text-center">
+    <div clas="row mb-5">
+        <div class="col-12 mb-5 text-center">
             <h1 class="text-light mt-5">Welcome to Skye's Socials</h1>
         </div>
     </div>
-    <div clas="row vh-100">
-        <div class="col-12 vh-100 text-center">
+    <div clas="row mb-5">
+        <div class="col-12 mb-5 text-center">
             <a class="btn btn-primary mx-5">Discord: Skye The Vixen#7084</a>
         </div>
     </div>
-    <div clas="row vh-100">
-        <div class="col-12 vh-100 text-center">
+    <div clas="row mb-5">
+        <div class="col-12 mb-5 text-center">
             <a class="btn btn-primary mx-5" href="https://twitter.com/skyethevixen">Twitter</a>
         </div>
     </div>
-    <div clas="row vh-100">
-        <div class="col-12 vh-100 text-center">
+    <div clas="row mb-5">
+        <div class="col-12 mb-5 text-center">
             <a class="btn btn-primary mx-5" href="https://twitter.com">AD Twitter</a>
         </div>
     </div>
-    <div clas="row vh-100">
-        <div class="col-12 vh-100 text-center">
+    <div clas="row mb-5">
+        <div class="col-12 mb-5 text-center">
             <a class="btn btn-primary mx-5" href="https://www.furaffinity.net/user/skyethevixen/">Furaffinity</a>
         </div>
     </div>
